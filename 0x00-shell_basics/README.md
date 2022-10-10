@@ -17,4 +17,4 @@ Executable 16: moves all files that begins with an uppercase into /tmp/u
 Executable 17: deletes files in current directory that begin with ~
 Executable 18: creates the the file tree: welcome/to/school
 Executable 19: list all the files and directories in current directory (includes hidden files); seperates them with a comma in a sorted order with higher preference given to digits
-Executable 20: creates school.mgc to be run with the command: file to detect the data files in School
+Executable 20: creates school.mgc to be run with the command: file to detect the data files in Schoo
