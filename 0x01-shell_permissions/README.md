@@ -15,4 +15,4 @@ Task 13: changes file: hello group owner to school
 Task 14: changes u to vincent and g to staff for all files and directories in the working directory
 Task 15: changes u to vincent and g to staff for the file: _hello
 Task 16: changes u to betty for file: hello if its u is guillaume
-Task 17: plays the StarWars IV episode in the terminal
+Task 17: plays the StarWars IV episode in the termina
