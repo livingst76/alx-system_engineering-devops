@@ -1,0 +1,1 @@
+Task 0: creates an alias, ls for the command, rm *
