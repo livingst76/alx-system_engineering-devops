@@ -1,14 +1,14 @@
-Task 0: prints "Hello, world".
-Task 1: displays confused smiley, "(Ôo)'.
-Task 2: displays the content of /etc/passwd.
-Task 3: like Task 2 but includes /etc/hosts.
-Task 4: displays the last 10 lines of /etc/passwd.
-Task 5: dispays the first 10 lines of /etc/passwd
-Task 6: displays the third line of the file, acta.
-Task 7: creates file, \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with text, "Best School".
-Task 8: writes the result of the command, ls -la into the file, ls_cwd_content; overwrites file if it exists else, creates file.
-Task 9: duplicates the last line of the file, iacta.
-Task 10: deletes JavaScript files and not directories in current directory and sub-directories.
+0-hello_world: prints "Hello, world".
+1-confused_smiley: displays confused smiley, "(Ôo)'.
+2-hellofile: displays the content of /etc/passwd.
+3-twofiles: like Task 2 but includes /etc/hosts.
+4-lastlines: displays the last 10 lines of /etc/passwd.
+5-firstlines: dispays the first 10 lines of /etc/passwd
+6-third_line: displays the third line of the file, acta.
+7-file: creates file, \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with text, "Best School".
+8-cwd_state: writes the result of the command, ls -la into the file, ls_cwd_content; overwrites file if it exists else, creates file.
+9-duplicate_last_line: duplicates the last line of the file, iacta.
+10-no_more_js: deletes JavaScript files and not directories in current directory and sub-directories.
 Task 11: counts the number of directories and sub-directories in current directory excludes current and parent directories in the count but includes hidden directories.
 Task 12: displays the 10 newest files in the current directory from the newest to the oldest and each file takes just one line.
 Task 13: displays words that appear once in a list in sorted order each taking one line.
