@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-## Introduction to Shell Basics
-=======
 Task 0: creates an alias, ls for the command, rm *
 Task 1: prints "hello user"; "user2 is the current Linux user
 Task 2: adds :/action to the global variable, PATH,
@@ -19,4 +16,3 @@ Task 14: converts base 10 to base 16
 Task 15: encodes and decodes texts using the rot13 encryption
 Task 16: prints every other line from the input, starting with the first line
 Task 17: adds enviroment variables, WATER and STIR, and prints the result. WATER and STIR are base water and stir respectively 
->>>>>>> master
