@@ -1,4 +1,4 @@
-Task 0: creates an alias, ls for the command, rm *
+0-alias: creates an alias, ls for the command, rm *
 Task 1: prints "hello user"; "user2 is the current Linux user
 Task 2: adds :/action to the global variable, PATH,
 Task 3: counts the number of directories in PATH
